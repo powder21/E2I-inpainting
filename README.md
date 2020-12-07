@@ -5,7 +5,7 @@ Requirements:
 tf=1.4,numpy=1.13,scipy=0.19
 
 Models Links:
-[]()
+[BaiduNetDisk(AccessCode:tnkn)](https://pan.baidu.com/s/1rlFJxqetWS6AYBksaaZyNA)
 
 Example of testing scipt on Places2 dataset
 ```
